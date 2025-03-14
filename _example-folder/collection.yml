@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - preshant.md
       - yixin.md
       - folder-page.md
       - example-subfolder/.keep
