@@ -13,6 +13,6 @@ April 2025 to 31 December 2027.</p>
 <p>For more information, please refer to the Frequently Asked Questions&nbsp;
 <a href="https://www.climate-friendly-households.gov.sg/interim-faq" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://maps.hack2025.gov.sg/demo-cfhp"></iframe>
+<iframe height="800" width="100%" allowfullscreen="true" frameborder="0" src="https://maps.hack2025.gov.sg/demo-cfhp"></iframe>
 </div>
 <p></p>
