@@ -13,7 +13,8 @@ properties. Eligible households may claim their Climate Vouchers from 15
 April 2025 to 31 December 2027.</p>
 <p>For more information, please refer to the Frequently Asked Questions&nbsp;
 <a href="https://www.climate-friendly-households.gov.sg/interim-faq" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="800" width="100%" allowfullscreen="true" frameborder="0" src="https://maps.hack2025.gov.sg/demo-cfhp"></iframe>
+<iframe height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://maps.gov.sg/nea-cfhp"></iframe>
 </div>
 <p></p>
